@@ -1,5 +1,5 @@
 
-# Applied Economist | Policy Analyst | Researcher | Data Analyst , 
+# Applied Economist | Policy Analyst | Researcher | Data Analyst 
 
  
 
