@@ -7,9 +7,8 @@ I am a Ph.D. candidate in Economics at the Universities of Siena, Florence, and 
 
 📫 **Get in touch:**  
 - Email: [h.alamineh@student.unisi.it](mailto:h.alamineh@student.unisi.it) | [habtamugebeyehu23@gmail.com](mailto:habtamugebeyehu23@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/habtamu-gebeyehu-alamineh-09bbb0287/](https://www.linkedin.com/in/habtamu-gebeyehu-alamineh-09bbb0287/)  
-- ORCID: [https://orcid.org/0000-0002-4958-0574](https://orcid.org/0000-0002-4958-0574)  
-- Google Scholar: [https://scholar.google.com/citations?user=h4QMAl4AAAAJ&hl=en](https://scholar.google.com/citations?user=h4QMAl4AAAAJ&hl=en)  
+- Personal website: [https://sites.google.com/view/habtamu2/home?authuser=0](https://https://sites.google.com/view/habtamu2/home?authuser=0)  
+ 
 
 ---
 
