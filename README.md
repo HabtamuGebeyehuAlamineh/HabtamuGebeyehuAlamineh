@@ -1,5 +1,5 @@
 
-# Hi there, I'm Habtamu Gebeyehu Alamineh
+# Hi there, 
 
 Ph.D. Candidate in Economics | Researcher | Lecturer | Mentor | Data & Policy Enthusiast  
 
