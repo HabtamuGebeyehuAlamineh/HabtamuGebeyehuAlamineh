@@ -130,4 +130,4 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 
 ---
 
-> “Applied research, experiential teaching, and industry collaboration are the tools to empower individuals, communities, and evidence-driven policy.”
+
