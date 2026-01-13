@@ -73,9 +73,6 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 **Methods:** Panel models, Causal Inference, Propensity Score Matching, IV, Diff-in-Diff, RCT  
 **Data:** Household panel data  
 
-**Selected Publications:**  
-- *Factors for potential entrepreneurs’ intention towards sustainable entrepreneurship: The case of Wolkite University graduate students in Ethiopia* ([Google Scholar](https://scholar.google.com/citations?user=h4QMAl4AAAAJ&hl=en))  
-
 ---
 
 ## 🛠 Skills & Tools
