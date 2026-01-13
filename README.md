@@ -36,7 +36,7 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 
 ## 💼 Academic & Teaching Experience
 
-**Lecturer & Teaching Assistant:**  
+**Lecturer:**  
 - Wolkite University, Ethiopia (2015–2022) — Undergraduate & graduate courses across multiple delivery formats: Business Statistics, Entrepreneurship, Leadership, Business Research Methods, SMEs Development  
 - Unity University, Addis Ababa (2021) — Marketing Ethics  
 - Addis Ababa Science & Technology University (2021) — Entrepreneurship / SMEs  
