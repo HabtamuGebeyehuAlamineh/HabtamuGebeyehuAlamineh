@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Habtamu Gebeyehu Alamineh
+# Hi there, I'm Habtamu Gebeyehu Alamineh
 
 Ph.D. Candidate in Economics | Researcher | Lecturer | Mentor | Data & Policy Enthusiast  
 
