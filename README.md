@@ -2,7 +2,7 @@
 # Applied Economist | Policy Analyst | Researcher | Data Analyst 
 
  ---
-Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation, and socio-economic outcomes in health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
+Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation, and socio-economic outcomes in health, food, energy, forced migration, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
 
 
 ---
