@@ -2,8 +2,7 @@
 # Applied Economist | Policy Analyst | Researcher | Data Analyst 
 
  ---
-I am an applied economist. My research focuses on entrepreneurship, innovation, food, health, energy, aging, social protection, poverty, and forced migration. I use household-level panel data and advanced empirical methods such as causal inference, propensity score matching, instrumental variables, difference-in-differences, and randomized controlled trials to generate evidence for policy design and evaluation.
-
+I am an applied microeconomist studying entrepreneurship, innovation, and socio-economic outcomes in areas like health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
 ---
 📫 **Get in touch:**  
 - Email: [h.alamineh@student.unisi.it](mailto:h.alamineh@student.unisi.it) | [habtamugebeyehu23@gmail.com](mailto:habtamugebeyehu23@gmail.com)  
