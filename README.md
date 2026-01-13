@@ -26,10 +26,10 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 ## 🌍 Education
 
 - **Ph.D. in Economics**, Universities of Siena, Florence & Pisa, Italy (2022–Present)  
-- **MSc in Applied Management**, University of Pécs, Hungary (2019–2021)  
+- **MSc in Applied Management**, University of Pécs, Hungary (2019–2021)
+- **Higher Diploma in Teaching in Higher Education**, Ethiopia (2018-2019) 
 - **MBA in Management**, Addis Ababa University, Ethiopia (2015–2017)  
 - **BA in Management**, Debre Markos University, Ethiopia (2011–2014)  
-- **Higher Diploma in Teaching in Higher Education**, Ethiopia
 - **Fellowships & Visiting Positions**: CDKN Africa Early-Career Researchers Fellowship (2025), Visiting Ph.D. student, Norwegian University of Life Sciences, Norway (Nov 2023 – Jun 2024)  
 
 ---
