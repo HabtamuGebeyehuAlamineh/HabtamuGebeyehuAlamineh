@@ -30,7 +30,7 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 - **MBA in Management**, Addis Ababa University, Ethiopia (2015–2017)  
 - **BA in Management**, Debre Markos University, Ethiopia (2011–2014)  
 - **Higher Diploma in Teaching in Higher Education**, Ethiopia
-  **Fellowships & Visiting Positions**: CDKN Africa Early-Career Researchers Fellowship (2025), Visiting Ph.D. student, Norwegian University of Life Sciences, Norway (Nov 2023 – Jun 2024)  
+- **Fellowships & Visiting Positions**: CDKN Africa Early-Career Researchers Fellowship (2025), Visiting Ph.D. student, Norwegian University of Life Sciences, Norway (Nov 2023 – Jun 2024)  
 
 ---
 
