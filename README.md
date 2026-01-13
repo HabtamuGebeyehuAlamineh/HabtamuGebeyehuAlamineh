@@ -2,7 +2,9 @@
 # Applied Economist | Policy Analyst | Researcher | Data Analyst 
 
  ---
-I am an applied microeconomist studying entrepreneurship, innovation, and socio-economic outcomes in areas like health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
+Hi! I'm Habtamu, an applied microeconomist from Ethiopia. I study entrepreneurship, innovation, and socio-economic outcomes in health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
+
+
 ---
 📫 **Get in touch:**  
 - Email: [h.alamineh@student.unisi.it](mailto:h.alamineh@student.unisi.it) | [habtamugebeyehu23@gmail.com](mailto:habtamugebeyehu23@gmail.com)  
