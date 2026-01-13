@@ -8,7 +8,7 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 ---
 📫 **Get in touch:**  
 - Email: [h.alamineh@student.unisi.it](mailto:h.alamineh@student.unisi.it) | [habtamugebeyehu23@gmail.com](mailto:habtamugebeyehu23@gmail.com)  
-- Personal website: [https://sites.google.com/view/habtamu2/home?authuser=0](https://https://sites.google.com/view/habtamu2/home?authuser=0)  
+- Personal website:https://sites.google.com/view/habtamu2/home
  
 
 ---
