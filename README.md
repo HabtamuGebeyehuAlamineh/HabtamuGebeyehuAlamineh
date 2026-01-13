@@ -76,10 +76,6 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 **Selected Publications:**  
 - *Factors for potential entrepreneurs’ intention towards sustainable entrepreneurship: The case of Wolkite University graduate students in Ethiopia* ([Google Scholar](https://scholar.google.com/citations?user=h4QMAl4AAAAJ&hl=en))  
 
-**Profiles & Metrics:**  
-- [Google Scholar](https://scholar.google.com/citations?user=h4QMAl4AAAAJ&hl=en)  
-- [ORCID](https://orcid.org/0000-0002-4958-0574)  
-
 ---
 
 ## 🛠 Skills & Tools
