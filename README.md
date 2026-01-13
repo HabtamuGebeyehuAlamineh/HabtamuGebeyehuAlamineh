@@ -2,7 +2,7 @@
 # Applied Economist | Policy Analyst | Researcher | Data Analyst 
 
  ---
-Hi! I'm Habtamu, an applied microeconomist from Ethiopia. I study entrepreneurship, innovation, and socio-economic outcomes in health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
+Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation, and socio-economic outcomes in health, food, energy, and social protection. I work with household panel and spatial data and am passionate about impact evaluation.
 
 
 ---
@@ -20,6 +20,8 @@ Hi! I'm Habtamu, an applied microeconomist from Ethiopia. I study entrepreneursh
 - **MBA in Management**, Addis Ababa University, Ethiopia (2015–2017)  
 - **BA in Management**, Debre Markos University, Ethiopia (2011–2014)  
 - **Higher Diploma in Teaching in Higher Education**, Ethiopia  
+
+---
 
 **Fellowships & Visiting Positions:**  
 - CDKN Africa Early-Career Researchers Fellowship (2025)  
@@ -65,7 +67,7 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 
 ---
 
-## 🔬 Research & Publications
+## 🔬 Research Areas
 
 **Specialization:** Applied Microeconomics  
 **Research Areas:** Entrepreneurship, Innovation, Food, Health, Energy, Aging, Social Protection, Poverty, Forced Migration  
@@ -76,8 +78,7 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 
 ## 🛠 Skills & Tools
 
-- **Economics & Policy:** Applied microeconomics, causal inference, policy evaluation  
-- **Programming & Data Analysis:** R, Stata, Python, Power BI  
+- **Programming & Data Analysis:** R, Stata, Power BI  
 - **Professional Writing:** LaTeX, Microsoft Word  
 - **Presentation & Communication:** Effectively communicate project goals  
 - **Remote Work & Collaboration:** GitHub  
