@@ -13,6 +13,16 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 
 ---
 
+
+## 🔬 Research Areas
+
+**Specialization:** Applied Microeconomics  
+**Research Areas:** Entrepreneurship, Innovation, Food, Health, Energy, Aging, Social Protection, Poverty, Forced Migration  
+**Methods:** Panel models, Causal Inference, Propensity Score Matching, IV, Diff-in-Diff, RCT  
+**Data:** Household panel data  
+
+---
+
 ## 🌍 Education
 
 - **Ph.D. in Economics**, Universities of Siena, Florence & Pisa, Italy (2022–Present)  
@@ -32,21 +42,15 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 ## 💼 Academic & Teaching Experience
 
 **Lecturer & Teaching Assistant:**  
-- Wolkite University, Ethiopia (2015–2022) — Undergraduate & graduate courses across multiple delivery formats: Business Statistics, Entrepreneurship, Financial Management, HR Management, Organizational Behavior, Leadership, Business Research Methods, SMEs Development  
+- Wolkite University, Ethiopia (2015–2022) — Undergraduate & graduate courses across multiple delivery formats: Business Statistics, Entrepreneurship, Leadership, Business Research Methods, SMEs Development  
 - Unity University, Addis Ababa (2021) — Marketing Ethics  
 - Addis Ababa Science & Technology University (2021) — Entrepreneurship / SMEs  
-
-**Teaching Philosophy:**  
-Experiential learning based on **Kolb’s Cycle**: Experience → Reflection → Conceptualization → Application.  
+- Teaching Philosophy: Experiential learning based on **Kolb’s Cycle**: Experience → Reflection → Conceptualization → Application.  
 - Quantitative courses: lab sessions, worksheets, open-book exercises  
 - Applied sciences: case studies, company visits, debates  
 - Behavioral sciences: anonymized or simulated data analysis  
-- Assessment: quizzes, tests, midterms, final exams, presentations, assignments  
-
-**Administrative Roles:**  
-- Chairperson, Examination Committee, Department Level (2018)  
-- Member, Graduate Council & Academic Standards Committees (2019)  
-- Coordinator, Continuing & Distance Education Program (2015)  
+- Assessment: quizzes, tests, midterms, final exams, presentations, assignments
+- Administrative Roles: Chairperson, Examination Committee, Department Level (2018), Member, Graduate Council & Academic Standards Committees (2019), Coordinator, Continuing & Distance Education Program (2015)  
 
 ---
 
@@ -58,21 +62,6 @@ Experiential learning based on **Kolb’s Cycle**: Experience → Reflection →
 - **Research Intern**, Tőkeportál, Hungary (Oct–Dec 2019) — Crowdfunding desk research  
 - **Logistics Officer**, Ethiopian Shipping & Logistics Service Enterprise (Sep–Dec 2016)  
 - **Assistant Accountant**, Commercial Bank of Ethiopia (Oct 2014–Apr 2015)  
-
-**University–Industry Linkage:**  
-- Participated in Career Week (Oct 2025) — Insights on academia-industry collaborations  
-
-**Expert Interviewee:**  
-- Transformative Enterprise Research (Aug 2024) — Entrepreneurial universities in Ethiopia  
-
----
-
-## 🔬 Research Areas
-
-**Specialization:** Applied Microeconomics  
-**Research Areas:** Entrepreneurship, Innovation, Food, Health, Energy, Aging, Social Protection, Poverty, Forced Migration  
-**Methods:** Panel models, Causal Inference, Propensity Score Matching, IV, Diff-in-Diff, RCT  
-**Data:** Household panel data  
 
 ---
 
