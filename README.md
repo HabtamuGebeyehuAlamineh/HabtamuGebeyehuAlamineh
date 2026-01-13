@@ -14,7 +14,7 @@ Hi! I'm Habtamu, an applied microeconomist. I study entrepreneurship, innovation
 ---
 
 
-## 🔬 Research Areas
+## 🔬 Research 
 
 **Specialization:** Applied Microeconomics  
 **Research Areas:** Entrepreneurship, Innovation, Food, Health, Energy, Aging, Social Protection, Poverty, Forced Migration  
